@@ -1,7 +1,7 @@
 # pose-detection-monkeydataset
 
 
-This is OpenMonkeyChallenge organized by # CodaLab
+This is OpenMonkeyChallenge organized by CodaLab
 
 Here is the link: https://competitions.codalab.org/competitions/34342#learn_the_details
 
